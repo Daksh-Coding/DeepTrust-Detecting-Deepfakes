@@ -12,6 +12,14 @@ Dataset can be downloaded from here: [mini_face_forensics](https://www.kaggle.co
 The Dataset contains 200 high-quality real and fake videos in each category.
 > [!Note]
 > If you wish to recreate your own model, and have resources(a good gpu), you can try with original face forensics++ dataset, and tweak some hyperparameters like increased image resolution of frames extracted or number of frames extracted itself, Or you can do some tweaks in LSTM model structure and its parameters.
+## Steps Taken in the Project
+1. Data Colleection
+2. Loading Data
+3. Extracting Frames from Videos
+4. Feature Extraction
+5. LSTM model building and training
+6. Testing
+7. Deployment
 ## Preview
 https://github.com/user-attachments/assets/5b3efe6b-319b-4d18-aece-66e432fa18bb
 ## Use Cases
