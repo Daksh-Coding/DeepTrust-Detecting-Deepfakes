@@ -22,6 +22,7 @@ The Dataset contains 200 high-quality real and fake videos in each category.
 7. Deployment
 ## Preview
 https://github.com/user-attachments/assets/5b3efe6b-319b-4d18-aece-66e432fa18bb
+(The clip may look real to our eyes, but I personally edited that clip so it is not real).
 ## Use Cases
 - **Social Media Moderation:** Automatically flag deepfake videos to prevent the spread of misinformation on platforms like Twitter, Instagram, or YouTube.
 - **Video Authentication in Journalism:** Assist news agencies in verifying the authenticity of user-submitted or viral video content before publication.
