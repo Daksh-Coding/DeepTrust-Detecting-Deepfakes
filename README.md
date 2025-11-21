@@ -3,7 +3,7 @@ Detecting AI-tampered and generated videos to ensure media authenticity. It uses
 <br>
 ## Installation and Dependencies
 1. **Create a Virtual Environment:** I recommend doing so to avoid inconsistencies between different library versions. Use the command `conda create -n deepfake_env python=3.12.4` to create a virtual env and use `conda activate deepfake_env` to activate it.
-2. **Clone the repository:** Use  `git clone _link_` to clone it to your local machine. Move to the repo's directory by using `cd _repo_folder_name_`.
+2. **Clone the repository:** Use  `git clone _link_` to clone it to your local machine. Move to the repo's directory by using `cd _folder_name_`.
 3. **Install all Dependencies:** Use `conda install -r requirements.txt` to install libraries.
 4. **Run the Streamlit App:** Use `Streamlit run app.py` to run the app.
 ## About the Dataset
