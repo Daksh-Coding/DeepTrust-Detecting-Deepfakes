@@ -1,7 +1,7 @@
 # python==3.12.4
 # Core Libraries
 numpy==1.26.4
-pandas==1.5.3
+pandas==2.2.2
 opencv-python
 tensorflow==2.18.1
 keras==3.6.0
