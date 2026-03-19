@@ -2,7 +2,7 @@
 # Core Libraries
 numpy==1.26.4
 pandas==2.2.2
-opencv-python
+opencv-python-headless
 tensorflow==2.18.1
 keras==3.6.0
 tqdm==4.65.0
